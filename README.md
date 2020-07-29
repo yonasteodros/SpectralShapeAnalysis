@@ -19,3 +19,8 @@ This is a (non-exaustive) list of possibilities for the final exam. \
 ### References
 This is a (hopefully exaustive) list of resources that inspired our course.\
 [Coming Soon]
+
+---
+
+### Video Lectures 
+[Video Lectures](https://univr-my.sharepoint.com/:f:/g/personal/umberto_castellani_univr_it/EqgiBHps9ylDnPHgGEFcDhIB_ZXas7LB17Ao4P5yyMQKhA)
